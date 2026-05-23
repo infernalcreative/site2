@@ -1,0 +1,6 @@
+{
+  "name": "Что-то пошло не так",
+  "description": "Простая страница с сообщением об ошибке и переключателем темной/светлой темы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
